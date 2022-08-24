@@ -1,0 +1,13 @@
+.table .thead-light {
+    background-color: #c3dffa;
+}
+
+.breakline::after{
+    content: "\a";
+    white-space: pre;
+    
+}
+
+.linethrough{
+    text-decoration: line-through;
+}
